@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+Hi
+
 * Ruby version
 
 * System dependencies
@@ -22,3 +24,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
