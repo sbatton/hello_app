@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-Hi
+Hi everyone
 
 * Ruby version
 
